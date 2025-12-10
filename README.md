@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @esadsimsek
 - 👀 I’m interested in Electronics, RF & Microwave, Hardware Design, EM, Analog
-- 🌱 I’m currently learning AWR Design Environment, ANSYS HFSS, Altium Designer, CST, STM32 CubeIDE, MATLAB,
+- 🌱 I’m currently learning AWR Design Environment, ANSYS HFSS, Altium Designer, CST, STM32 CubeIDE, MATLAB, Embedded
 - 📫 How to reach me = s.esadsimsek@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
